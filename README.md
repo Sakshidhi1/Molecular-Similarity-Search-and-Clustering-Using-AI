@@ -66,9 +66,14 @@ Files Included
 ## File Name    	                   Description
 
 molecular_similarity_project.ipynb	 Complete Jupyter Notebook with code & explanations
+
 umap_clusters.png                  	 UMAP coordinates of molecules for cluster visualization
+<img width="2400" height="1800" alt="umap_clusters" src="https://github.com/user-attachments/assets/9c652773-8247-4fab-805d-5ce28889eb44" />
+
 Similarity_topk.csv	                 Top-k similar molecules using Tanimoto similarity
+
 Butina_clusters_output.csv	          Butina clustering results with cluster IDs
+
 Molecules_butina_clusters.csv	        Molecules mapped to their respective Butina clusters
 
 
